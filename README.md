@@ -1,6 +1,7 @@
 # Beginner Projects
 
 <p>
-  ✅ Mad Libs
+  ✅ Mad Libs 
+    <br>
   ✅ Guess The Number (Computer)
 </p>
